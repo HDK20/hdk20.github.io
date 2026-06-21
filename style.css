@@ -121,6 +121,7 @@ main {
 }
 
 main h1 {
+    padding-bottom: 8px;
     text-align: center;
     font-size: 4em;
     color: #fffdf6;
